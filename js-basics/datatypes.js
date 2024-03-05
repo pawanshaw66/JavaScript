@@ -8,6 +8,7 @@ let name="pawan"
 let age=23
 console.table([name,age])
 
+// Primitive
 // number->2^53
 // bigint
 // string
@@ -15,8 +16,15 @@ console.table([name,age])
 // null->standalone value
 // undefined->value not assigned
 // symbol->unique
+
+// Non Primitive/Reference
+// Array
 // object 
+// Functions
 
 console.log(typeof "pawan")
 console.log(typeof(null))
 console.log(typeof undefined)
+
+
+
