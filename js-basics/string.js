@@ -72,3 +72,9 @@ console.log(t.match("ain"))
 
 console.log(t.startsWith('T'))
 console.log(t.endsWith('n'))
+
+let firstName = "John";
+let lastName = "Doe";
+
+let fullName = `Welcome ${firstName}, ${lastName}!`
+console.log(fullName)
